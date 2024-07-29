@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading.
 - 🌱 I’m currently learning programming.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact about me is that I'm slow learner.
+- ⚡ Fun fact about me is that I'm a slow learner.
 
 <!---
 marco96-star/marco96-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
